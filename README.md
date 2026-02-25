@@ -9,7 +9,6 @@ HabitFlow is a clean, intuitive iPadOS habit-tracking application designed to he
 * **User Authentication:** Secure sign-in functionality to keep user data private and synced.
 
 ## Screenshots
-*(Note: Upload your screenshots to a folder in your repo and update these paths)*
 | Today View | Habits List |
 | :---: | :---: |
 | <img src="HabitFlow/Screenshots/TodayPage.png" width="300"/> | <img src="HabitFlow/Screenshots/HabitsPage.png" width="300"/> |
@@ -20,16 +19,14 @@ HabitFlow is a clean, intuitive iPadOS habit-tracking application designed to he
 
 ## Tech Stack
 * **Framework:** SwiftUI
-* **Architecture:** [e.g., MVVM]
-* **Local Storage / Database:** [e.g., CoreData, SwiftData, or Firebase - fill this in!]
-* **Authentication:** [e.g., Firebase Auth, Apple Sign-in, etc. - fill this in!]
+* **Architecture:** MVVM
+* **Local Storage / Database:** Firebase
+* **Authentication:** Firebase Auth
 
 ## Getting Started
 To run this project locally:
 1. Clone the repository: `git clone https://github.com/hbp23/HabitFlow.git`
 2. Open `HabitFlow.xcodeproj` in Xcode.
-3. [Add any extra steps here, e.g., "Wait for Swift Package Manager to resolve dependencies" or "Add your own GoogleService-Info.plist for Firebase"]
-4. Select an iPad simulator and click **Run** (Cmd + R).
+3. Add your own GoogleService-Info.plist for Firebase.
+4. Select an iPhone or iPad simulator and click **Run** (Cmd + R).
 
-## Contact
-Created by Harsh Patel - [LinkedIn Profile URL] - [Portfolio URL]
