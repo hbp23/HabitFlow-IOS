@@ -12,11 +12,11 @@ HabitFlow is a clean, intuitive iPadOS habit-tracking application designed to he
 *(Note: Upload your screenshots to a folder in your repo and update these paths)*
 | Today View | Habits List |
 | :---: | :---: |
-| <img src="HabitFlow/Screenshots/Today.png" width="300"/> | <img src="HabitFlow/Screenshots/Habits.png" width="300"/> |
+| <img src="HabitFlow/Screenshots/TodayPage.png" width="300"/> | <img src="HabitFlow/Screenshots/HabitsPage.png" width="300"/> |
 
 | Statistics | Settings & Profile |
 | :---: | :---: |
-| <img src="HabitFlow/Screenshots/Stats.png" width="300"/> | <img src="HabitFlow/Screenshots/Settings.png" width="300"/> |
+| <img src="HabitFlow/Screenshots/StatsPage.png" width="300"/> | <img src="HabitFlow/Screenshots/SettingsPage.png" width="300"/> |
 
 ## Tech Stack
 * **Framework:** SwiftUI
