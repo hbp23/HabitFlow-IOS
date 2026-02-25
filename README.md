@@ -25,8 +25,12 @@ HabitFlow is a clean, intuitive iPadOS habit-tracking application designed to he
 
 ## Getting Started
 To run this project locally:
-1. Clone the repository: `git clone https://github.com/hbp23/HabitFlow.git`
+1. Clone the repository: `git clone https://github.com/hbp23/HabitFlow-IOS.git`
 2. Open `HabitFlow.xcodeproj` in Xcode.
 3. Add your own GoogleService-Info.plist for Firebase.
 4. Select an iPhone or iPad simulator and click **Run** (Cmd + R).
 
+---
+
+## License
+MIT License – see [LICENSE](LICENSE) for details.
